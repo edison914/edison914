@@ -25,9 +25,8 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-![](https://img.shields.io/badge/ORM-Sqlalchemy-informational?style=flat&logo=sqlalchemy&logoColor=white&color=52B0E7)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+![](https://img.shields.io/badge/ORM-Sqlalchemy-informational?style=flat&logo=sqlalchemy&logoColor=white&color=52B0E7)
 
 
 <h3 align="left">Hosting/Saas :</h3>
