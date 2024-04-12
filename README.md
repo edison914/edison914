@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Eddie 👋
 
 - 🔭 I’m currently working on my personal project - FurryGo
 - 🌱 I’m currently learning material UI
